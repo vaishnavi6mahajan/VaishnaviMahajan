@@ -1,4 +1,6 @@
-<h1 align=center>Hello!! I'm Vaishnavi K. Mahajan</h1>
+<h1 align=center>Hello!!! I'm Vaishnavi K. Mahajan</h1>
+
+
 # 💫 About Me:
 🎓I'm an enthusiastic Learner<br>👩🏻‍🎓Currently working on Web Development<br>👀Checkout my projects at[https://github.com/vaishnavi6mahajan/Development-Projects]<br>
 
@@ -20,4 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=vaishnavi6mahajan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
