@@ -5,7 +5,7 @@
 🎓I'm an Enthusiastic Learner.<br>👩🏻‍🎓Currently working on Web Development.<br>👀Checkout my projects at[https://github.com/vaishnavi6mahajan/Development-Projects]<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaishnavi-K.-Mahajan) 
 
 # 💻 Tech Stack:
