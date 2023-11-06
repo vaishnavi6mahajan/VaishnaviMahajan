@@ -1,5 +1,5 @@
 <h1 align=center>Hello!!! I'm Vaishnavi Mahajan</h1>
-
+ 
 
 # 💫 About Me:<br>
 🎓I'm an Enthusiastic Learner.<br>👩🏻‍🎓Currently working on Web Development.<br>👀Checkout my projects at:<br>[https://github.com/vaishnavim1610/Development-Projects]<br>[https://github.com/vaishnavim1610/JS-Projects]
