@@ -2,7 +2,7 @@
  
 
 # 💫 About Me:<br>
-🎓I'm an Enthusiastic Learner.<br>👩🏻‍🎓Currently working on Web Development.<br>👀Checkout my projects at:<br><center>1.[https://github.com/vaishnavim1610/Development-Projects]<br>2.[https://github.com/vaishnavim1610/JS-Projects]<center>
+🎓I'm an Enthusiastic Learner.<br>👩🏻‍🎓Currently working on Web Development.<br>👀Checkout my projects at:<br><center>1.[https://github.com/vaishnavim1610/Development-Projects]<br>2.[https://github.com/vaishnavim1610/JS-Projects]<br>3.[https://vaishnavim1610.github.io/Web_projects/Interior]<center>
 
 
 # 🌐 Socials:
